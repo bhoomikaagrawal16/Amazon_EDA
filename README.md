@@ -1,2 +1,2 @@
-# S4ds
+# S4DS
 S4DS task
